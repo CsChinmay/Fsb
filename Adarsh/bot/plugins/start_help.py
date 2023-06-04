@@ -230,10 +230,9 @@ async def about_handler(bot, message):
 
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
 ┃
-┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ : <a href='https://t.me/A2Z_file_to_link_bot'>★彡 𝐀𝟐𝐙 𝐅𝐢𝐥𝐞 𝐓𝐨 𝐋𝐢𝐧𝐤 𝐁𝐨𝐭 彡★</a></b>
-┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/AtwoZ_movies'>𝐀𝟐𝐙 𝐦𝐨𝐯𝐢𝐞𝐬</a></b>
+┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ : <a href='https://t.me/A2Z_file_to_link_bot'>𝐀𝟐𝐙 𝐅𝐢𝐥𝐞 𝐓𝐨 𝐋𝐢𝐧𝐤 𝐁𝐨𝐭</a></b>
+┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/AtwoZ_movies'>★彡 𝐀𝟐𝐙 𝐦𝐨𝐯𝐢𝐞𝐬 彡★</a></b>
 ┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/A2Z_movies_bot'>★彡 𝐀𝟐𝐙 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 彡★</a></b>
-
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
 ┣⪼<b>sᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ : <a href='https://t.me/A2Z_movies_bot'>𝐆𝐞𝐭 𝐂𝐨𝐝𝐞</a></b>
